@@ -131,10 +131,12 @@ The project demonstrates:
 ## Project Structure
 
 ```text
-student-performance-linear-regression/
+student-performance-prediction/
 │
-├── student_performance_linear_regression.ipynb
+├── Student_Performance.csv
 ├── linear_regression.joblib
+├── student_performance_linear_regression.ipynb
+├── predict.py
 └── README.md
 ```
 
