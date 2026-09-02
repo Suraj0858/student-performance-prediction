@@ -136,7 +136,7 @@ student-performance-prediction/
 ├── Student_Performance.csv
 ├── linear_regression.joblib
 ├── student_performance_linear_regression.ipynb
-├── predict.py
+├── predict (1).py
 └── README.md
 ```
 
